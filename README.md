@@ -30,7 +30,7 @@ This outputs a static site to `dist/`. Preview it locally with `npm run preview`
 
 ### Vercel
 1. Push this repo to GitHub.
-2. Go to [vercel.com/new](https://vercel.com/new), import the repo.
+2. https://footholdappv20.vercel.app/
 3. Framework preset: Vite. Leave build command (`npm run build`) and output
    directory (`dist`) as detected. Deploy.
 
